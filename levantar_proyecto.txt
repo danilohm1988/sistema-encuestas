@@ -1,0 +1,12 @@
+//para el backend
+1.- venv\Scripts\activate
+2.- pip install django-cors-headers
+3.- python manage.py runserver
+
+//para web-client
+1.- ng serve -o
+
+//para mobile
+1.- flutter devices
+2.- flutter run
+
